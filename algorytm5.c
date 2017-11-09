@@ -4,7 +4,7 @@
 //---------------------------
 
 #include <iostream>
-#include <iomanip>
+#include <iomanip>												//ZMIANA MASTER
 #include <cstdlib>
 #include <ctime>
 
