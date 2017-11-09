@@ -5,7 +5,7 @@
 
 #include <iostream>
 #include <string>
-#include <cstdlib>
+#include <cstdlib>																//ZMIANA MASTER
 #include <time.h>
 
 using namespace std;
