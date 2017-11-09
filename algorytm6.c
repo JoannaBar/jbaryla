@@ -4,8 +4,13 @@
 //-----------------------------
 
 #include <iostream>
+<<<<<<< HEAD
 #include <string>
 #include <cstdlib>																//ZMIANA MASTER
+=======
+#include <string>//ZMIANA DO ZADANIA GA£ÊZI
+#include <cstdlib>
+>>>>>>> Branch1
 #include <time.h>
 
 using namespace std;

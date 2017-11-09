@@ -10,7 +10,7 @@ using namespace std;
 
 void Fermat(unsigned int p)
 {
-  unsigned long long x,y,z,m,n;
+  unsigned long long x,y,z,m,n;//ZMIANA DO ZADANIA £¥CZENIE GA£ÊZI
 
   x = (unsigned long long)ceil(sqrt(p));
   do
@@ -29,6 +29,8 @@ void Fermat(unsigned int p)
     x++;
   } while(x + y < p);
   cout << p << " ";
+
+
 }
 
 int main()

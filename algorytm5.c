@@ -3,8 +3,13 @@
 // (C)2015 mgr Jerzy Wa³aszek
 //---------------------------
 
+<<<<<<< HEAD
 #include <iostream>
 #include <iomanip>												//ZMIANA MASTER
+=======
+#include <iostream>//ZMIANA DO ZADANIA £¥CZENIE GA£ÊZI
+#include <iomanip>
+>>>>>>> Branch1
 #include <cstdlib>
 #include <ctime>
 

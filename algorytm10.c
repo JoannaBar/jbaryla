@@ -3,8 +3,13 @@
 // (C)2012 mgr Jerzy Wa³aszek
 //---------------------------------------
 
+<<<<<<< HEAD
 #include <iostream>																	//ZMIANA MASTER
 #include <string>
+=======
+#include <iostream>
+#include <string>//ZMIANA DO ZADANIA
+>>>>>>> Branch1
 
 using namespace std;
 

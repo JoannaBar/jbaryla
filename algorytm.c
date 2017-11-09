@@ -14,7 +14,7 @@ int main()
   double a,d;
 
   cout << fixed
-       << setprecision(3);
+       << setprecision(3);//ZMIANA DO ZADANIA £¥CZENIE GA£ÊZI
 
   cin >> n >> a >> d;
 

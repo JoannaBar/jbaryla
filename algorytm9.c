@@ -4,7 +4,11 @@
 //-----------------------------
 
 #include <iostream>
-#include <string>																//ZMIANA MASTER
+<<<<<<< HEAD
+#include <string>																
+=======
+#include <string>//ZMIANA DO ZADANIA
+>>>>>>> Branch1
 #include <cstdlib>
 #include <time.h>
 
@@ -24,7 +28,7 @@ int main()
 
 // rozpoczynamy rozgrywkê
 
-  for(runda = 1; runda <= 6; runda++)
+  for(runda = 1; runda <= 6; runda++)//ZMIANA MASTER
   {
 
 // odczytujemy kod ³amacza
