@@ -4,7 +4,7 @@
 //-----------------------------
 
 #include <iostream>
-#include <string>
+#include <string>//ZMIANA DO ZADANIA
 #include <cstdlib>
 #include <time.h>
 
