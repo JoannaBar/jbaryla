@@ -3,7 +3,7 @@
 // (C)2015 mgr Jerzy Wa³aszek
 //---------------------------
 
-#include <iostream>
+#include <iostream>//ZMIANA DO ZADANIA £¥CZENIE GA£ÊZI
 #include <iomanip>
 #include <cstdlib>
 #include <ctime>
